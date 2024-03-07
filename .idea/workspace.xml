@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db8fd0e1-33f9-4c6a-808a-5c95bf35eb49" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/bst/BST.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/bst/BST.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/bst/BSTRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/bst/BSTRunner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/bst/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/bst/TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bst/BST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bst/BST.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bst/BSTRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bst/BSTRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BST_2021.iml" beforeDir="false" afterPath="$PROJECT_DIR$/AP_Recursion-BST.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,21 +18,29 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
   <component name="ProjectId" id="1Wo5PphFnKitOkD6SFXxQpsjZjD" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
   <component name="RunManager">
     <configuration name="BSTRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="bst.BSTRunner" />
-      <module name="BST_2021" />
+      <module name="AP_Recursion-BST" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="bst.*" />
@@ -53,6 +56,13 @@
         <item itemvalue="Application.BSTRunner" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.9-corretto-17.0.9-249ae16d76d6-af57353a" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
